@@ -2,7 +2,7 @@
 
 #### Udemy is a platform has more than 40 million students, 155,000 courses and 70,000 instructors teaching courses in over 65 languages. There have been over 480 million course enrollments. Students and instructors come from 180+ countries and 2/3 of the students are located outside of the U.S.
 
-#### here we have data.csv file of udemy website, which contain total 9 columns..
+#### here we have [data.csv](https://drive.google.com/file/d/1zglnQkX756nfySz9RT8V3p1R6-69RHmS/view) file of udemy website, which contain total 9 columns..
 * course name
 * paid/free
 * price
@@ -97,8 +97,9 @@ So after analyize All thr params of columns and we get that two result...<br>
 ![newplot (1)](https://user-images.githubusercontent.com/84271454/118906070-a147a180-b93a-11eb-8549-2a7c64707e7f.png)
 2. Top 30 best selling and most popular course on the base of num_reviews<br>
 ![newplot (2)](https://user-images.githubusercontent.com/84271454/118906073-a3116500-b93a-11eb-9893-efdf67dd7154.png)
-
-so here all about by my side... if you like share and subscribe...
+----
+## ANALYSIS:-
+#### AFTER SEEING THIS BOTH RESULT I AM CONCLUDE THAT, MOST OF STUDENT ARE INTERESTED IN WEB-DEVELOPMENT AS COMPARED OTHER SUBJECTS. ALSO WEB-DESIGINING IS MOST POPULAR TOPIC IN CURRENT TIME.
 
 
 
